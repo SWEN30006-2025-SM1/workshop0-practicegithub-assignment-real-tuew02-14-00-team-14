@@ -46,7 +46,7 @@
         <mxCell id="9vXAmPVRI_VAFFQpgO2C-1" value="&lt;i&gt;&lt;b&gt;Actor&lt;/b&gt;&lt;/i&gt;&lt;div&gt;Accounting system&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1140" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9vXAmPVRI_VAFFQpgO2C-2" value="Actor&lt;div&gt;Credit authori&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="9vXAmPVRI_VAFFQpgO2C-2" value="Actor&lt;div&gt;Credit authorization&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1140" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
