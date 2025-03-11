@@ -56,7 +56,7 @@
           <mxGeometry x="145" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gUQiQVGfGeAnU0nc1oWH-3" value="&amp;lt;&amp;lt;Actor&amp;gt;&amp;gt;&lt;div&gt;Accounting system&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="660" y="960" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9vXAmPVRI_VAFFQpgO2C-1" value="&amp;lt;&amp;lt;Actor&amp;gt;&amp;gt;&lt;div&gt;Application&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="530" width="80" height="80" as="geometry" />
