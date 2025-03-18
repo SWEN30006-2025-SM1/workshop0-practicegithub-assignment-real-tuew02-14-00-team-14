@@ -139,12 +139,6 @@
         <mxCell id="gkhJe_jEqmKW5KZX2DoX-9" value="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="252" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CHSvoIu9NTHtDcGf9rWG-4" value="Note" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="665" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="CHSvoIu9NTHtDcGf9rWG-5" value="+size&lt;div&gt;+content&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CHSvoIu9NTHtDcGf9rWG-4" vertex="1">
-          <mxGeometry x="10" y="60" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="gkhJe_jEqmKW5KZX2DoX-11" value="Student" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="430" width="200" height="200" as="geometry" />
         </mxCell>
