@@ -121,7 +121,7 @@
         <mxCell id="gkhJe_jEqmKW5KZX2DoX-5" value="Assessment Item" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1620" y="180" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="gkhJe_jEqmKW5KZX2DoX-6" value="+Title&lt;div&gt;+description&lt;/div&gt;&lt;div&gt;+&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PDF&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;uploadMethod&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;maxmark&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gkhJe_jEqmKW5KZX2DoX-5">
+        <mxCell id="gkhJe_jEqmKW5KZX2DoX-6" value="+Title&lt;div&gt;+description&lt;/div&gt;&lt;div&gt;+&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PDF&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+uploadMethod&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+maxmark&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gkhJe_jEqmKW5KZX2DoX-5">
           <mxGeometry x="30" y="60" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CHSvoIu9NTHtDcGf9rWG-1" value="Submission" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
