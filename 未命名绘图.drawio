@@ -237,13 +237,22 @@
         </mxCell>
         <mxCell id="pcp8SfsVrK47Xz0PN9Vl-9" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1690" y="1270" as="sourcePoint" />
-            <mxPoint x="1380" y="1270" as="targetPoint" />
+            <mxPoint x="1690" y="1310" as="sourcePoint" />
+            <mxPoint x="1380" y="1310" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-4" value="logIn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="645" y="1249" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoIQRb3kYsHA4Hq2WDPy-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="1270" as="sourcePoint" />
+            <mxPoint x="1690" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QoIQRb3kYsHA4Hq2WDPy-11" value="create assignment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1249" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
