@@ -295,8 +295,8 @@
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-15" value="selectAssesmentItems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="585" y="1410" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUzxSPI_EMga-GQgqE5O-1" value="uploadInstruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1350" width="60" height="30" as="geometry" />
+        <mxCell id="oUzxSPI_EMga-GQgqE5O-1" value="upload Instruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="1350" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
