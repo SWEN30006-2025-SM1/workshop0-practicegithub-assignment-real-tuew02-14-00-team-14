@@ -131,7 +131,7 @@
           <mxGeometry x="1510" y="270" width="110" height="8" as="geometry" />
         </mxCell>
         <mxCell id="CHSvoIu9NTHtDcGf9rWG-1" value="Submission" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="420" width="200" height="200" as="geometry" />
+          <mxGeometry x="1620" y="425" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CHSvoIu9NTHtDcGf9rWG-2" value="+size&lt;div&gt;+fileName&lt;/div&gt;&lt;div&gt;&lt;div&gt;+fileType&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CHSvoIu9NTHtDcGf9rWG-1">
           <mxGeometry x="10" y="50" width="80" height="60" as="geometry" />
@@ -140,16 +140,19 @@
           <mxGeometry x="1480" y="252" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CHSvoIu9NTHtDcGf9rWG-4" value="Note" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="640" width="200" height="200" as="geometry" />
+          <mxGeometry x="1920" y="665" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CHSvoIu9NTHtDcGf9rWG-5" value="+size&lt;div&gt;+content&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CHSvoIu9NTHtDcGf9rWG-4">
           <mxGeometry x="10" y="60" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gkhJe_jEqmKW5KZX2DoX-11" value="Student" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="180" width="200" height="200" as="geometry" />
+          <mxGeometry x="1920" y="430" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gkhJe_jEqmKW5KZX2DoX-12" value="+name&lt;div&gt;+StudentAccount&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gkhJe_jEqmKW5KZX2DoX-11">
           <mxGeometry x="20" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkhJe_jEqmKW5KZX2DoX-13" value="Receipt" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="790" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
