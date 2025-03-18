@@ -304,6 +304,12 @@
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-17" value="attachSubmission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="1490" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yHI_WPJ7sjb-kgQ12tqT-2" value="confirm creation" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="1470" as="sourcePoint" />
+            <mxPoint x="1380" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
