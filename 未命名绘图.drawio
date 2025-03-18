@@ -187,6 +187,9 @@
         <mxCell id="pcp8SfsVrK47Xz0PN9Vl-1" value="Instructor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1110" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pcp8SfsVrK47Xz0PN9Vl-2" value="LMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
