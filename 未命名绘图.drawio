@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="KB6b2LPOlrmd6zzLp5-_">
-    <mxGraphModel dx="842" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="KWF-84h6F9MTXlQLzktW-1" value="Add to cart" style="ellipse;whiteSpace=wrap;html=1;" parent="Vek37xuDfO8ECV00KmPB-5" vertex="1">
           <mxGeometry x="260" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gkhJe_jEqmKW5KZX2DoX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vek37xuDfO8ECV00KmPB-5" source="b7lFSfRi3nSQUvw3sl0q-1" target="Vek37xuDfO8ECV00KmPB-5">
+        <mxCell id="gkhJe_jEqmKW5KZX2DoX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Vek37xuDfO8ECV00KmPB-5" source="b7lFSfRi3nSQUvw3sl0q-1" target="Vek37xuDfO8ECV00KmPB-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b7lFSfRi3nSQUvw3sl0q-1" value="Display Order Summary and confirmation" style="ellipse;whiteSpace=wrap;html=1;" parent="Vek37xuDfO8ECV00KmPB-5" vertex="1">
@@ -112,13 +112,13 @@
             <mxPoint x="623" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkhJe_jEqmKW5KZX2DoX-2" value="&amp;nbsp;Instructor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkhJe_jEqmKW5KZX2DoX-2" value="&amp;nbsp;Instructor" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="180" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="gkhJe_jEqmKW5KZX2DoX-3" value="+name&lt;div&gt;&lt;div&gt;+employID&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gkhJe_jEqmKW5KZX2DoX-2">
-          <mxGeometry x="10" y="60" width="80" height="40" as="geometry" />
+        <mxCell id="gkhJe_jEqmKW5KZX2DoX-3" value="+name&lt;div&gt;&lt;div&gt;+email&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="gkhJe_jEqmKW5KZX2DoX-2" vertex="1">
+          <mxGeometry x="20" y="60" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gkhJe_jEqmKW5KZX2DoX-5" value="Assessment Item" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkhJe_jEqmKW5KZX2DoX-5" value="Assessment Item" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1620" y="180" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gkhJe_jEqmKW5KZX2DoX-6" value="+Title&lt;div&gt;+description&lt;/div&gt;&lt;div&gt;+&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PDF&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;uploadMethod&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gkhJe_jEqmKW5KZX2DoX-5">
