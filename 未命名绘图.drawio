@@ -244,7 +244,7 @@
         </mxCell>
         <mxCell id="pcp8SfsVrK47Xz0PN9Vl-10" value="authenticationSuccess" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pcp8SfsVrK47Xz0PN9Vl-9">
           <mxGeometry x="0.0086" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-4" value="logIn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
