@@ -541,19 +541,10 @@
             <mxPoint x="880" y="2230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2Pd8FENYSnE3M7ZQyDq-11" value="logIn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2010" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6S8qPyy1aY1X7wrQLvJN-12" value="login()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="500" y="2000" as="sourcePoint" />
             <mxPoint x="690" y="2000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c2Pd8FENYSnE3M7ZQyDq-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="2040" as="sourcePoint" />
-            <mxPoint x="700" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6S8qPyy1aY1X7wrQLvJN-13" value="uploadAssigment()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
