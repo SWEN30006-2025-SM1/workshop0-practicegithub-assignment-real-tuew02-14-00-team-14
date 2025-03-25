@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="第 1 页" id="KB6b2LPOlrmd6zzLp5-_">
     <mxGraphModel dx="1636" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -343,7 +343,7 @@
         <mxCell id="M3SzBZShGUP7pVlen1ng-2" value="emailReceipt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="615" y="1690" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DkqlS5AvhU1MiIZRDWNP-1" value="display instruction" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;" edge="1" parent="1">
+        <mxCell id="DkqlS5AvhU1MiIZRDWNP-1" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="835" y="1720" as="sourcePoint" />
             <mxPoint x="515" y="1720" as="targetPoint" />
