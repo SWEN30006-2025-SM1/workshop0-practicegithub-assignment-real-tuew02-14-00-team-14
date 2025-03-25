@@ -732,8 +732,8 @@
             <mxPoint x="3405" y="1244.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="90ny7wVxduzqymrraI9C-88" value="make_assessment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="1219" width="250" height="30" as="geometry" />
+        <mxCell id="90ny7wVxduzqymrraI9C-88" value="make_assessment_item_avaliable()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="1220" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
