@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="KB6b2LPOlrmd6zzLp5-_">
-    <mxGraphModel dx="531" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1636" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-15" value="selectAssesmentItems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="585" y="1410" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUzxSPI_EMga-GQgqE5O-1" value="upload Instruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oUzxSPI_EMga-GQgqE5O-1" value="upload Instruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1475" y="1350" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
@@ -304,7 +304,7 @@
             <mxPoint x="840" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oUzxSPI_EMga-GQgqE5O-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oUzxSPI_EMga-GQgqE5O-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="1410" as="sourcePoint" />
             <mxPoint x="1690" y="1410" as="targetPoint" />
@@ -313,7 +313,7 @@
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-17" value="attachSubmission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="600" y="1490" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUzxSPI_EMga-GQgqE5O-4" value="Choose upload method&amp;nbsp;(&quot;TurnItIn&quot; or &quot;ZIP&quot;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oUzxSPI_EMga-GQgqE5O-4" value="Choose upload method&amp;nbsp;(&quot;TurnItIn&quot; or &quot;ZIP&quot;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1410" y="1380" width="259" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
@@ -340,14 +340,14 @@
         <mxCell id="bT_p2JEUUOVfJh2NgT_J-21" value="confirmSubmission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="595" y="1610" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bT_p2JEUUOVfJh2NgT_J-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="1720" as="sourcePoint" />
-            <mxPoint x="520" y="1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M3SzBZShGUP7pVlen1ng-2" value="emailReceipt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="M3SzBZShGUP7pVlen1ng-2" value="emailReceipt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="615" y="1690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqlS5AvhU1MiIZRDWNP-1" value="display instruction" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="835" y="1720" as="sourcePoint" />
+            <mxPoint x="515" y="1720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
