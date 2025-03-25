@@ -541,9 +541,9 @@
             <mxPoint x="690" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6S8qPyy1aY1X7wrQLvJN-13" value="uploadAssigment()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="6S8qPyy1aY1X7wrQLvJN-13" value="uploadAssigment()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oYItjDKVIpTZbC1rEsy4-30">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="870" y="2060" as="sourcePoint" />
+            <mxPoint x="870" y="2070" as="sourcePoint" />
             <mxPoint x="690" y="2060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -573,12 +573,6 @@
         </mxCell>
         <mxCell id="c2Pd8FENYSnE3M7ZQyDq-21" value="Validate upload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1069" y="2230" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oYItjDKVIpTZbC1rEsy4-37" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="870" y="2069.47" as="sourcePoint" />
-            <mxPoint x="980" y="2069" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
