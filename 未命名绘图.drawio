@@ -363,6 +363,9 @@
             <mxPoint x="2420" y="350" as="sourcePoint" />
             <mxPoint x="2380" y="449" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="2420" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uXR11-I8cUio6AIFGhmz-10" value="0...*" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
