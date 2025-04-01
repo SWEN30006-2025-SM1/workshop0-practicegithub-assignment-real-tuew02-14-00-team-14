@@ -669,7 +669,7 @@
         <mxCell id="d0fiXUyNgtVjFky7KgRg-1" value="Listing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2480" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d0fiXUyNgtVjFky7KgRg-2" value="Bid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d0fiXUyNgtVjFky7KgRg-2" value="transaction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2650" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0fiXUyNgtVjFky7KgRg-3" value="User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
