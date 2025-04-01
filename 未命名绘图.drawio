@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.2">
   <diagram name="第 1 页" id="KB6b2LPOlrmd6zzLp5-_">
-    <mxGraphModel dx="1002" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="616" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -702,16 +702,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f-dd25xMcwGsudy4Ske7-1" value="Listing" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="1560" width="160" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="f-dd25xMcwGsudy4Ske7-2" value="+ instant price : double&lt;div&gt;+ starting price : double&lt;/div&gt;&lt;div&gt;+ start date : Date&lt;/div&gt;&lt;div&gt;+ end date : Date&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="f-dd25xMcwGsudy4Ske7-1">
-          <mxGeometry y="26" width="160" height="74" as="geometry" />
+          <mxGeometry x="3240" y="1560" width="160" height="126" as="geometry" />
         </mxCell>
         <mxCell id="f-dd25xMcwGsudy4Ske7-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="f-dd25xMcwGsudy4Ske7-1">
-          <mxGeometry y="100" width="160" height="8" as="geometry" />
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="f-dd25xMcwGsudy4Ske7-4" value="+ getHighestBid():&lt;div&gt;+ creatTransaction(buyer: User, payment): Transaction&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="f-dd25xMcwGsudy4Ske7-1">
-          <mxGeometry y="108" width="160" height="92" as="geometry" />
+        <mxCell id="f-dd25xMcwGsudy4Ske7-4" value="+ createListing(seller, )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="f-dd25xMcwGsudy4Ske7-1">
+          <mxGeometry y="34" width="160" height="92" as="geometry" />
         </mxCell>
         <mxCell id="onDlNX_EZ9Th_vX2WFEw-5" value="addTransaction(price,status,paymentmethod)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
