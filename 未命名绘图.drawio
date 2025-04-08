@@ -920,7 +920,7 @@
         <mxCell id="BmGdvLppJSnYY7Zb5DUo-17" value="0...*" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="5180" y="1820" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="QHqP3TVUoxGU6gCfgggY-4" value="Cardt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QHqP3TVUoxGU6gCfgggY-4" value="Card" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5530" y="1498" width="140" height="56" as="geometry" />
         </mxCell>
         <mxCell id="QHqP3TVUoxGU6gCfgggY-14" value="&amp;nbsp;amount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QHqP3TVUoxGU6gCfgggY-4">
