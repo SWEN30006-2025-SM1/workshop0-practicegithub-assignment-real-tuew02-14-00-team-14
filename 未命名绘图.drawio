@@ -1767,7 +1767,7 @@
             <mxPoint x="7600" y="2340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L3dGtFrX45mqIJlV9Jrt-8" value="States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="L3dGtFrX45mqIJlV9Jrt-8" value="Status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7320" y="2335" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L3dGtFrX45mqIJlV9Jrt-9" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
