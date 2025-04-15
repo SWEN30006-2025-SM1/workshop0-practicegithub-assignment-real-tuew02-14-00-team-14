@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="第 1 页" id="KB6b2LPOlrmd6zzLp5-_">
-    <mxGraphModel dx="1429" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1637,7 +1637,7 @@
           <mxGeometry x="7630" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3dGtFrX45mqIJlV9Jrt-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;AccountState&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;PENDING&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ACTIVE&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;INACTIVE&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;SUSPENDED&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;DEFAULT&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;CLOSED&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="7320" y="2350" width="190" height="140" as="geometry" />
+          <mxGeometry x="7200" y="2410" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6terO3yqaBdP8VkM0d_G-4" value="payment plan offered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7960" y="2320" width="120" height="60" as="geometry" />
@@ -1684,7 +1684,7 @@
             <mxPoint x="20" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6terO3yqaBdP8VkM0d_G-16" value="helathydebt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6terO3yqaBdP8VkM0d_G-16" value="healthydebt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7810" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6terO3yqaBdP8VkM0d_G-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1768,16 +1768,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L3dGtFrX45mqIJlV9Jrt-8" value="States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="7410" y="2300" width="60" height="30" as="geometry" />
+          <mxGeometry x="7320" y="2335" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L3dGtFrX45mqIJlV9Jrt-9" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="7410" y="2260" width="60" height="30" as="geometry" />
+          <mxGeometry x="7350" y="2280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L3dGtFrX45mqIJlV9Jrt-10" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="7400" y="2330" width="60" height="30" as="geometry" />
+          <mxGeometry x="7290" y="2380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L3dGtFrX45mqIJlV9Jrt-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DefaultSubState&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ACTIVE&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;INACTIVE&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;SUSPENDED&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;DEFAULT&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;CLOSED&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="7530" y="2410" width="190" height="140" as="geometry" />
+        <mxCell id="L3dGtFrX45mqIJlV9Jrt-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DefaultSubState&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;MISSAPAYMENT&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;GTACE_PERIOD&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;PAYMENT_PLAN_OFFERED&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;HEALTHY_DEBT&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;UNHEALTHY_DEBT&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;COLLECTIONS&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="7440" y="2410" width="190" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
