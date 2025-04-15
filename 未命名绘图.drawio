@@ -1610,6 +1610,20 @@
             <mxPoint x="8390" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QQDfutVG2hqKXR5BfSIR-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m3r7dWyhafWe6Uojy8vK-3" target="m3r7dWyhafWe6Uojy8vK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7920" y="1269" as="sourcePoint" />
+            <mxPoint x="7920" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQDfutVG2hqKXR5BfSIR-4" value="&lt;p class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" connectable="0" vertex="1" parent="QQDfutVG2hqKXR5BfSIR-3">
+          <mxGeometry x="-0.282" y="-1" relative="1" as="geometry">
+            <mxPoint x="71" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQDfutVG2hqKXR5BfSIR-5" value="more than 6 months/ closed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="8085" y="1270" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
