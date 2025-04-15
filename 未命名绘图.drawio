@@ -1468,7 +1468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hdV3fPukkF3Yk7_63t8g-4" value="Pending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8080" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="8100" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="89dL7sIRUs6uN_c9Ev-X-1" value="Suspended" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7820" y="1619" width="120" height="60" as="geometry" />
