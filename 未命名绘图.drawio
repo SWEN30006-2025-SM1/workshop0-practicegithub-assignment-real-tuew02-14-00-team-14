@@ -1866,7 +1866,7 @@
         <mxCell id="i5yDmXZY5mkq_ucxitgg-8" value="&lt;div&gt;+ drawAndApply(Player p)&lt;/div&gt;&lt;div&gt;- deck : LuckCardDeck&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="i5yDmXZY5mkq_ucxitgg-5" vertex="1">
           <mxGeometry y="34" width="150" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="y2Z0yrfUIN8_FtVuxN1u-5" value="Lot Square" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="y2Z0yrfUIN8_FtVuxN1u-5" value="Railroad Square" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-895" y="220" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="y2Z0yrfUIN8_FtVuxN1u-6" value="&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="y2Z0yrfUIN8_FtVuxN1u-5" vertex="1">
