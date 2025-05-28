@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="WjV254Gba9erAiQApaUT">
-    <mxGraphModel dx="4293" dy="3352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1797" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,12 +23,12 @@
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PVs03nNFmgh6ihw6GwIS-21" value="Score" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="733" y="1040" width="140" height="52" as="geometry" />
+          <mxGeometry x="770" y="1040" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="PVs03nNFmgh6ihw6GwIS-22" value="scores" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="PVs03nNFmgh6ihw6GwIS-21" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PVs03nNFmgh6ihw6GwIS-25" value="DealingManager" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PVs03nNFmgh6ihw6GwIS-25" value="Dealing" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="1144" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="BhqL6TJsvbym1Sud5tqn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PVs03nNFmgh6ihw6GwIS-33" edge="1">
@@ -73,12 +73,13 @@
         <mxCell id="BhqL6TJsvbym1Sud5tqn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3imu_aPTBYBItrWe76zo-4" target="PVs03nNFmgh6ihw6GwIS-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BhqL6TJsvbym1Sud5tqn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.879;exitY=1.019;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="PVs03nNFmgh6ihw6GwIS-22" target="PVs03nNFmgh6ihw6GwIS-45" edge="1">
+        <mxCell id="BhqL6TJsvbym1Sud5tqn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.402;exitY=1.113;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PVs03nNFmgh6ihw6GwIS-22" target="PVs03nNFmgh6ihw6GwIS-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="856" y="1206" />
-              <mxPoint x="858" y="1206" />
+              <mxPoint x="839" y="1092" />
+              <mxPoint x="838" y="1092" />
             </Array>
+            <mxPoint x="860" y="1092" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BhqL6TJsvbym1Sud5tqn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.05;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PVs03nNFmgh6ihw6GwIS-25" target="PVs03nNFmgh6ihw6GwIS-45" edge="1">
