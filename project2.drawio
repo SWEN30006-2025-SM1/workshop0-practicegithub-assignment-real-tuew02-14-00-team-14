@@ -739,7 +739,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-47" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="-667.5" width="270" height="170" as="geometry" />
+          <mxGeometry x="2210" y="-667.5" width="540" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr9gUWHrv3vyDnuVkAV3-48" value="[Computer Smart Bidding]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2270" y="-667.5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
