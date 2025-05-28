@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="WjV254Gba9erAiQApaUT">
-    <mxGraphModel dx="1797" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4293" dy="3352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -619,7 +619,7 @@
           <mxGeometry x="1850" y="-980" width="100" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Mr9gUWHrv3vyDnuVkAV3-17">
-          <mxGeometry x="45" y="98" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-102" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Mr9gUWHrv3vyDnuVkAV3-17">
           <mxGeometry x="45" y="1350" width="10" height="58" as="geometry" />
@@ -640,7 +640,7 @@
           <mxGeometry x="2030" y="-980" width="100" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Mr9gUWHrv3vyDnuVkAV3-19">
-          <mxGeometry x="45" y="130" width="10" height="1290" as="geometry" />
+          <mxGeometry x="45" y="120" width="10" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-61" value="askForTrumpCard()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="Mr9gUWHrv3vyDnuVkAV3-36" parent="Mr9gUWHrv3vyDnuVkAV3-19" source="Mr9gUWHrv3vyDnuVkAV3-36">
           <mxGeometry relative="1" as="geometry">
@@ -775,12 +775,12 @@
             <mxPoint x="250" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mr9gUWHrv3vyDnuVkAV3-35" value="runApp(props)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="Mr9gUWHrv3vyDnuVkAV3-36">
+        <mxCell id="Mr9gUWHrv3vyDnuVkAV3-35" value="runApp(props)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="Mr9gUWHrv3vyDnuVkAV3-32" target="Mr9gUWHrv3vyDnuVkAV3-36">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1900" y="-860" as="sourcePoint" />
             <mxPoint x="2070" y="-860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1920" y="-860" />
+              <mxPoint x="1920" y="-850" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -879,25 +879,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-65" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="-720" width="1270" height="8" as="geometry" />
+          <mxGeometry x="1860" y="-728" width="1260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-66" value="2. Smart Bidding" style="html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2400" y="-736" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-67" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1830" y="-430" width="1270" height="8" as="geometry" />
+          <mxGeometry x="1860" y="-430" width="1260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-68" value="3. Trump Selection" style="html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2400" y="-454" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-69" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="-349" width="1270" height="8" as="geometry" />
+          <mxGeometry x="1860" y="-349" width="1260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-70" value="4. Cut-Throat / Regular Mode" style="html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2400" y="-370" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-71" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="-200" width="1270" height="8" as="geometry" />
+          <mxGeometry x="1860" y="-200" width="1260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-72" value="5. Trick-Taking Loop" style="html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2400" y="-220" width="150" height="40" as="geometry" />
@@ -955,7 +955,7 @@
           <mxGeometry x="2090" y="80" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-97" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="268" width="1270" height="8" as="geometry" />
+          <mxGeometry x="1860" y="268" width="1260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-98" value="6. Update &amp;amp; End" style="html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2400" y="260" width="150" height="40" as="geometry" />
