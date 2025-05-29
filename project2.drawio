@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="WjV254Gba9erAiQApaUT">
-    <mxGraphModel dx="5697" dy="3716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2011" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -809,7 +809,7 @@
         <mxCell id="Mr9gUWHrv3vyDnuVkAV3-48" value="[Computer Smart Bidding]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2166" y="-667.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mr9gUWHrv3vyDnuVkAV3-50" value="calculateMeldingScore(hand)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0.348;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="Mr9gUWHrv3vyDnuVkAV3-45">
+        <mxCell id="Mr9gUWHrv3vyDnuVkAV3-50" value="calculateMeldingScore(hand)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" source="Mr9gUWHrv3vyDnuVkAV3-45">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="2320" y="-610" as="sourcePoint" />
             <mxPoint x="2470" y="-610" as="targetPoint" />
