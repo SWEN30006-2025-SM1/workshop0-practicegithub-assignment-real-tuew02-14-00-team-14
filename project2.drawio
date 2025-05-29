@@ -1015,6 +1015,26 @@
         <mxCell id="ipBsArttMUDQPch6sIb5-12" value="&lt;div&gt;&amp;nbsp;• flip 2 face-up cards&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; • winner/loser picks one&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; • deal remaining cards&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;• discard down to 12&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="2750" y="-250" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ipBsArttMUDQPch6sIb5-13" value="[Regular Mode]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2170.5" y="-190" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ipBsArttMUDQPch6sIb5-14" value="applyMode()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.8" y="3" width="80" relative="1" as="geometry">
+            <mxPoint x="2151" y="-145.53" as="sourcePoint" />
+            <mxPoint x="2741" y="-145.53" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipBsArttMUDQPch6sIb5-15" value="&amp;nbsp;hands now at 12 cards each" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.6962" relative="1" as="geometry">
+            <mxPoint x="2737" y="-120" as="sourcePoint" />
+            <mxPoint x="2151" y="-120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ipBsArttMUDQPch6sIb5-16" value="Keep the original 12 cards" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="-140" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
