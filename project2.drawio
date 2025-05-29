@@ -1053,6 +1053,15 @@
         <mxCell id="7A5OCtOt9wKNeNLBy7xh-7" value="creates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="416" y="-220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7A5OCtOt9wKNeNLBy7xh-8" value="use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7A5OCtOt9wKNeNLBy7xh-9" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-607.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7A5OCtOt9wKNeNLBy7xh-10" value="has" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="983" y="-637.5" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
